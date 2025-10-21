@@ -27,7 +27,7 @@ A simplified AI-powered interview preparation platform that demonstrates the cor
    ```
 
 3. **Open your browser:**
-   Navigate to `http://localhost:5173` (Vite default port)
+   Navigate to `http://localhost:3000`
 
 4. **Try the demo:**
    - Upload a PDF resume OR click "Try Demo Without Upload"
