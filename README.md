@@ -2,6 +2,10 @@
 
 A simplified AI-powered interview preparation platform that demonstrates the core value proposition: **"Upload your resume, get personalized interview questions, practice answering, receive basic feedback."**
 
+## 🎥Live Demo ! 
+
+
+
 ## 🎯 Demo Features
 
 - **📄 PDF Resume Upload**: Upload and parse PDF resumes with automatic text extraction
@@ -27,7 +31,7 @@ A simplified AI-powered interview preparation platform that demonstrates the cor
    ```
 
 3. **Open your browser:**
-   Navigate to `http://localhost:5173` (Vite default port)
+   Navigate to `http://localhost:3000` (Vite default port)
 
 4. **Try the demo:**
    - Upload a PDF resume OR click "Try Demo Without Upload"
