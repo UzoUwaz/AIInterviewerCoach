@@ -212,10 +212,6 @@ This MVP demo could be extended with:
 - Mobile app version
 - Multi-language support
 
-## 📄 License
-
-MIT License - see LICENSE file for details
-
 ## 🤝 Contributing
 
 This is a demo project. For production use, consider:
