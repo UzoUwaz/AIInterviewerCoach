@@ -5,14 +5,10 @@ A simplified AI-powered interview preparation platform that demonstrates the cor
 ## 🎥Live Demo ! 
 
 
-<video width="720" controls>
-  <source src="https://github.com/UzoUwaz/AIInterviewerCoach/raw/refs/heads/master/src/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Download Demo](https://img.shields.io/badge/🎥%20Watch%20Demo-blue)](https://github.com/UzoUwaz/AIInterviewerCoach/raw/refs/heads/master/src/demo.mp4)
 
-[![Watch Demo](https://img.shields.io/badge/🎥%20Watch%20Demo-blue)](https://github.com/UzoUwaz/AIInterviewerCoach/raw/refs/heads/master/src/demo.mp4)
+[![Watch on Loom](https://cdn.loom.com/sessions/thumbnails/e0504fc8c0e44e418b977945da2f3913-00001.jpg)](https://www.loom.com/share/e0504fc8c0e44e418b977945da2f3913)
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/e0504fc8c0e44e418b977945da2f3913" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 ## 🎯 Demo Features
