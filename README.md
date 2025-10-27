@@ -4,12 +4,13 @@ A simplified AI-powered interview preparation platform that demonstrates the cor
 
 ## 🎥Live Demo ! 
 
-https://github.com/UzoUwaz/AIInterviewerCoach/raw/refs/heads/master/src/demo.mp4 
 
 <video width="720" controls>
   <source src="https://github.com/UzoUwaz/AIInterviewerCoach/raw/refs/heads/master/src/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+[![Watch Demo](https://img.shields.io/badge/🎥%20Watch%20Demo-blue)](https://github.com/UzoUwaz/AIInterviewerCoach/raw/refs/heads/master/src/demo.mp4)
 
 
 ## 🎯 Demo Features
